@@ -4,4 +4,4 @@ Snake game programmed in Java, This was a new project for me looking to see how 
 
 Feel free to use the code in your own projects.
 
-By. Jamie Andrews
+By Jamie Andrews
